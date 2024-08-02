@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "A) A Primeira Guerra Mundial causou uma grande mobilização de mulheres para o mercado de trabalho, já que muitos homens estavam na frente de batalha, o que resultou em mudanças significativas nas normas de gênero e no papel das mulheres na sociedade.",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                afirmacao: "Durante a Primeira Guerra Mundial, as mulheres desempenharam um papel crucial em fábricas e outros setores, o que contribuiu para mudanças duradouras nas expectativas e nas oportunidades de trabalho para as mulheres."
             },
             {
                 texto: "B) A guerra levou à estabilização das normas sociais e ao fortalecimento das instituições tradicionais, sem grandes mudanças nas estruturas de gênero ou na mobilidade social.",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                afirmacao: "A Primeira Guerra Mundial, na verdade, provocou mudanças significativas nas normas sociais e nas estruturas de gênero, ao contrário da estabilização, pois muitos aspectos da sociedade foram transformados."
             }
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "A) A Segunda Guerra Mundial causou uma grande destruição das infraestruturas e indústrias, levando a uma recessão global profunda e a uma redução significativa no comércio internacional.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                afirmacao: "A Segunda Guerra Mundial resultou na destruição de muitos centros industriais e infraestruturas, o que levou a uma recessão econômica global e a uma diminuição temporária no comércio internacional."
             },
             {
                 texto: "B) A guerra estimulou o crescimento econômico e o comércio internacional, com a reconstrução pós-guerra levando ao desenvolvimento de novas economias e à expansãodos mercados globais.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                afirmacao: "Após a Segunda Guerra Mundial, a reconstrução, especialmente com o Plano Marshall, ajudou a estimular o crescimento econômico e o comércio internacional, promovendo a recuperação e expansão das economias."
             }
         ]
     },
@@ -36,40 +36,15 @@ const perguntas = [
         alternativas: [
             {
                 texto: "A) A criação da ONU levou a uma maior cooperação internacional e à implementação de medidas para promover os direitos humanos, prevenir futuros conflitos e melhorar as condições de vida globalmente.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                afirmacao: "A ONU foi criada para promover a paz e a cooperação internacional, estabelecer direitos humanos e desenvolver estratégias para prevenir futuros conflitos e melhorar as condições de vida."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: "B) A ONU teve um impacto limitado na cooperação internacional e na promoção dos direitos humanos, com pouca influência nas questões de conflitos e desenvolvimento global.",
+                afirmacao: "Na verdade, a ONU desempenha um papel crucial na promoção da cooperação internacional e dos direitos humanos, com uma influência significativa em questões de conflitos e desenvolvimento global."
             }
         ]
     },
-    {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
-        alternativas: [
-            {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
-            },
-            {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
-            }
-        ]
-    },
-    {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
-        alternativas: [
-            {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
-            },
-            {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
-            }
-        ]
-    },
+    
 ];
 
 
